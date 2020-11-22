@@ -1,8 +1,8 @@
 ;; Hat tip for good suggestions on a minimal set up: https://www.sandeepnambiar.com/my-minimal-emacs-setup
 
 ;; For git purposes
-(setq user-full-name "Marvin Ward Jr."
-      user-mail-address "choct155@gmail.com")
+(setq user-full-name "Sarah Kuehl"
+      user-mail-address "kuehlse@gmail.com")
 
 ;; Adjust path
 (defun set-exec-path-from-shell-PATH ()
